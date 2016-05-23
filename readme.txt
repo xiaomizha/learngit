@@ -1,2 +1,2 @@
 Hello world! Git
-I changed the readme.txt！
+I the readme.txt！
